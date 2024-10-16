@@ -1,0 +1,28 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Maze Runner (Java)/*
+!/Maze Runner (Java)/task/
+/Maze Runner (Java)/task/*
+!/Maze Runner (Java)/task/src
+!/Maze Runner (Java)/task/test_maze.txt
+!/Maze Runner (Java)/task/maze_escape.txt
+
+# Project exclude paths
+/Topics/Comparator/Theory/out/
+/Topics/Comparator/Theory/out/production/classes/
+/Topics/PriorityQueue/Application/out/
+/Topics/PriorityQueue/Application/out/production/classes/
+/Topics/PriorityQueue/Comparing by score summary/out/
+/Topics/PriorityQueue/Comparing by score summary/out/production/classes/
+/Topics/Stack/Which brackets are balanced/out/
+/Topics/Stack/Which brackets are balanced/out/production/classes/
